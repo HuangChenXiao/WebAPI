@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\Com.DBHelper\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\Com.DBHelper\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\Com.DBHelper\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\Com.DBHelper\Model\obj\Debug\Model.pdb
+D:\Code\WebAPI\Model\bin\Debug\Model.dll
+D:\Code\WebAPI\Model\bin\Debug\Model.pdb
+D:\Code\WebAPI\Model\obj\Debug\Model.dll
+D:\Code\WebAPI\Model\obj\Debug\Model.pdb
+E:\WebAPI\Model\bin\Debug\Model.dll
+E:\WebAPI\Model\bin\Debug\Model.pdb
+E:\WebAPI\Model\obj\Debug\Model.dll
+E:\WebAPI\Model\obj\Debug\Model.pdb
+D:\Code\WebAPI\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

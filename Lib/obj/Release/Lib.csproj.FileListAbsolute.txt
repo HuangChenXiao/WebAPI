@@ -1,0 +1,15 @@
+D:\Code\WebAPI\Lib\bin\Release\Lib.dll.config
+D:\Code\WebAPI\Lib\bin\Release\Lib.dll
+D:\Code\WebAPI\Lib\bin\Release\Lib.pdb
+D:\Code\WebAPI\Lib\bin\Release\Com.dll
+D:\Code\WebAPI\Lib\bin\Release\EntityFramework.dll
+D:\Code\WebAPI\Lib\bin\Release\EntityFramework.SqlServer.dll
+D:\Code\WebAPI\Lib\bin\Release\Model.dll
+D:\Code\WebAPI\Lib\bin\Release\Newtonsoft.Json.dll
+D:\Code\WebAPI\Lib\bin\Release\Com.pdb
+D:\Code\WebAPI\Lib\bin\Release\Model.pdb
+D:\Code\WebAPI\Lib\bin\Release\EntityFramework.xml
+D:\Code\WebAPI\Lib\bin\Release\EntityFramework.SqlServer.xml
+D:\Code\WebAPI\Lib\obj\Release\Lib.csprojResolveAssemblyReference.cache
+D:\Code\WebAPI\Lib\obj\Release\Lib.dll
+D:\Code\WebAPI\Lib\obj\Release\Lib.pdb

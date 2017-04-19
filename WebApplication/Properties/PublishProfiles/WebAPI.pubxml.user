@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+您 Web 项目的发布/打包进程将使用此文件。您可以通过编辑此 MSBuild 文件
+来自定义该进程的行为。若要了解与此相关的详细信息，请访问 http://go.microsoft.com/fwlink/?LinkID=208121。
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>F:\Web发布\TestAPI</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Com.dll">
+      <publishTime>03/03/2017 11:34:22</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/03/2017 11:14:27</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/03/2017 11:14:27</publishTime>
+    </File>
+    <File Include="bin/Lib.dll">
+      <publishTime>03/03/2017 13:26:48</publishTime>
+    </File>
+    <File Include="bin/Model.dll">
+      <publishTime>03/03/2017 13:26:47</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/02/2013 12:10:10</publishTime>
+    </File>
+    <File Include="bin/WebApplication.dll">
+      <publishTime>03/03/2017 13:26:49</publishTime>
+    </File>
+    <File Include="example.ashx">
+      <publishTime>03/03/2017 12:24:04</publishTime>
+    </File>
+    <File Include="FileNoFound.html">
+      <publishTime>03/03/2017 12:24:02</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>03/03/2017 12:26:01</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/03/2017 13:26:49</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

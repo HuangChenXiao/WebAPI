@@ -1,0 +1,9 @@
+D:\Code\WebAPI\Com\bin\Release\Com.dll.config
+D:\Code\WebAPI\Com\bin\Release\Com.dll
+D:\Code\WebAPI\Com\bin\Release\Com.pdb
+D:\Code\WebAPI\Com\bin\Release\EntityFramework.dll
+D:\Code\WebAPI\Com\bin\Release\EntityFramework.SqlServer.dll
+D:\Code\WebAPI\Com\bin\Release\EntityFramework.xml
+D:\Code\WebAPI\Com\bin\Release\EntityFramework.SqlServer.xml
+D:\Code\WebAPI\Com\obj\Release\Com.dll
+D:\Code\WebAPI\Com\obj\Release\Com.pdb
